@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/380d1cbc-ea7e-4ffe-b7f6-b3a145a35794" alt="drawing" width="50%"/> <br>
+  <img src="https://github.com/user-attachments/assets/380d1cbc-ea7e-4ffe-b7f6-b3a145a35794" alt="drawing" width="65%"/> <br>
   
   **Junior Game Client Developer who helps users immerse themselves in the new world.** <br>
   
