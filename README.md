@@ -3,7 +3,7 @@
   
   **Junior Game Client Developer who helps users immerse themselves in the new world.** <br>
   
-----
+-----
 
 👇 **CLICK ME !!** <br>
 
@@ -18,7 +18,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
-----
+-----
+
+[<img src="https://img.shields.io/badge/-English-323232?style=flat"/>](https://github.com/MANGRYANG/MANGRYANG/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-한국어-8c8c8c?style=flat"/>](https://github.com/MANGRYANG/MANGRYANG/blob/main/README-ko.md)
+
+-----
 
 <a href="https://github.com/mangryang/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangryang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
