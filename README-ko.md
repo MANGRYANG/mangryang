@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/380d1cbc-ea7e-4ffe-b7f6-b3a145a35794" alt="drawing" width="65%"/> <br>
+  <img src="https://github.com/user-attachments/assets/57339e17-9374-4bdb-9281-86ef5b19675c" alt="drawing" width="65%"/> <br>
   
   **사용자가 새로운 세계에 몰입할 수 있도록 서포트하는 주니어 게임 클라이언트 개발자입니다.** <br>
   
